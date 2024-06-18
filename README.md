@@ -1,3 +1,7 @@
 # k-p5w.github.io
 
-## ここがページに反映される？
+## Soy-ClickerCookieClickerMOD
+
+画像をuploadする場所
+
+soyImageの配置先
